@@ -5,4 +5,5 @@ int main(){
      sum = n1 + n2;
      prinf("%d %d", n1, n2);
      printf("%d ", sum);
+     return 0;
 }
